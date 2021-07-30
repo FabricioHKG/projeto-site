@@ -22,3 +22,16 @@ main {
     
     
 }
+
+header h1 {
+    color: #aeae30;
+}
+
+article h2 {
+    color: #aeae30;
+    font-size: 10px;
+}
+
+article p {
+    text-align: justify;
+}
