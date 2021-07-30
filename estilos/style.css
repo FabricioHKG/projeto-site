@@ -24,6 +24,7 @@ main {
 }
 
 header h1 {
+    font-size: 18px;
     color: #5e440b;
 }
 
@@ -33,5 +34,6 @@ article h2 {
 }
 
 article p {
+    text-indent: 10px;
     text-align: justify;
 }
