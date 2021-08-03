@@ -25,7 +25,7 @@ main {
 }
 
 header h1 {
-    font-size: 18px;
+    font-size: 30px;
     color: #5e440b;
     font-weight: bold;
     padding-bottom: 10px;
@@ -38,7 +38,7 @@ article div iframe {
 }
 
 article h2 {
-    font-size: 16px;
+    font-size: 18px;
     color: #5e440b;
     font-weight: bold;
  
@@ -47,6 +47,12 @@ article h2 {
 article p {
     text-indent: 10px;
     text-align: justify;
+}
+
+p abbr {
+    color: cornflowerblue;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 img.lado {
