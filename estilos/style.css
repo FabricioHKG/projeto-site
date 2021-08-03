@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+* {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+body {
+    background-color: rgb(255, 255, 181);
+
+}
+
+main {
+    margin: auto;
+    width: 500px;
+    padding: 10px;
+    background-color: white;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.22);
+    
+    
+}
+
+header h1 {
+    font-size: 18px;
+    color: #5e440b;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+article h2 {
+    font-size: 16px;
+    color: #5e440b;
+    font-weight: bold;
+ 
+}
+
+article p {
+    text-indent: 10px;
+    text-align: justify;
+}
